@@ -1,2 +1,2 @@
-print("Gayathri is a cool programmer")
+print("Teja is coderr.....")
  # type: ignore
